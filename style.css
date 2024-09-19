@@ -1,0 +1,36 @@
+table{
+    padding: 10px;
+    border-collapse: collapse;
+    width: 1000px;
+}
+
+th{
+    background-color: red;
+    color: white;
+}
+td,tr{
+    border: solid black;
+}
+
+form{
+    background-color:lavender;
+    border: solid black;
+}
+
+button{
+    background-color: beige;
+    border: solid black;
+}
+
+nav{
+    background-color: lightblue;
+    border: solid black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    background-color: lightpink;
+}
+footer{
+    background-color: beige;
+}
